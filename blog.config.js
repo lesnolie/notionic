@@ -30,7 +30,7 @@ const BLOG = {
   socialLink: {
     twitter: '',
     github: '',
-    telegram: '1662838058'
+    telegram: 't.me/le55lie'
   },
   seo: {
     keywords: ['Notionic', 'ilxyz', 'Blog'],
@@ -41,7 +41,7 @@ const BLOG = {
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
   notionDomain: '',
   telegramToken: process.env.TELEGRAM_TOKEN, // The token of your Telegram bot
-  telegramChatId: '', // The chat id of your Telegram bot
+  telegramChatId: '1662838058', // The chat id of your Telegram bot
   telegramChannelUrl: '', // The link of your Telegram channel
   telegramChannelName: '', // The name of your Telegram channel
   craftConfigShareUrl: 'https://www.craft.do/s/JISh4gXoUBTx7m', // The link to share your craft config
