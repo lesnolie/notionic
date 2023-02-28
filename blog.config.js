@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Notionic',
   author: 'leslie',
-  email: 'leslie@ilxyz.cn',
+  email: 'i@le55lie.me',
   link: 'https://wiki.ilxyz.cn',
   newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
